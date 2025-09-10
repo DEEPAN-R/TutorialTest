@@ -3,7 +3,7 @@ Git is a version control system.
 This is a modified line from main branch
 This is a modified line from branchOne
 Developers use Git every day.
-GitHub is a hosting service for Git.
+Github is a hosting service.
 Branches help manage work separately.
 Merging combines branches together.
 Conflicts occur when changes overlap.
