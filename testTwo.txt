@@ -1,6 +1,7 @@
 This is a Test Two file from branchOne
 Git is a version control system.
 This is a modified line from main branch
+This is a modified line from branchOne
 Developers use Git every day.
 GitHub is a hosting service for Git.
 Branches help manage work separately.
