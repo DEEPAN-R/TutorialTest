@@ -19,4 +19,4 @@ Commit messages should be clear.
 Git status shows repo state.
 Git log shows commit history.
 Git diff compares versions.
-Practice makes Git easier
+Git will become easier when practices are more
