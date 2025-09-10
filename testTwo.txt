@@ -1,1 +1,21 @@
 This is a Test Two file from branchOne
+Git is a version control system.
+It tracks changes in files.
+Developers use Git every day.
+GitHub is a hosting service for Git.
+Branches help manage work separately.
+Merging combines branches together.
+Conflicts occur when changes overlap.
+Git requires manual conflict resolution.
+Pulling updates keeps your branch current.
+Pushing uploads commits to remote.
+Fetch downloads changes without merging.
+Rebase keeps history linear.
+Tags mark important commits like releases.
+Merge conflicts are part of teamwork.
+Small commits are easier to track.
+Commit messages should be clear.
+Git status shows repo state.
+Git log shows commit history.
+Git diff compares versions.
+Practice makes Git easier
